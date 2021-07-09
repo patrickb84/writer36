@@ -15,7 +15,7 @@
 + [Features](http://github.com/alxshelepenok/gatsby-starter-lumen#features)
 + [Web Performance Tests](http://github.com/alxshelepenok/gatsby-starter-lumen#web-performance-tests)
 + [Quick Start](http://github.com/alxshelepenok/gatsby-starter-lumen#quick-start)
-+ [Deploy with Netlify](http://github.com/alxshelepenok/gatsby-starter-lumen#deploy-with-netlify)
++ [Deploy with Netlify](http://github.com/patrickb84/writer36#deploy-with-netlify)
 + [Folder Structure](http://github.com/alxshelepenok/gatsby-starter-lumen#folder-structure)
 + [Sponsors](http://github.com/alxshelepenok/gatsby-starter-lumen#sponsors)
 + [Contributors](http://github.com/alxshelepenok/gatsby-starter-lumen#contributors)
