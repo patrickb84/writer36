@@ -80,3 +80,8 @@ workflows:
       - codecov:
           requires:
             - coverage
+
+backend:
+  name: git-gateway
+  repo: patrickb84/writer36
+  branch: main
